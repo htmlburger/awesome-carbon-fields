@@ -27,6 +27,8 @@
 - [Icon](https://github.com/htmlburger/carbon-field-icon) - Adds an icon field.
 - [Select 2](https://github.com/dmhendricks/carbon-field-select-multiple) - Adds a Select2-based field.
 - [URL Picker](https://github.com/iamntz/carbon-fields-urlpicker) - Adds an url picker field.
+- [Chained Select](https://github.com/iamntz/carbon-chained-select) - Provides a way to chain multiple select. Also supports AJAX!
+- [Unique ID](https://github.com/iamntz/carbon-uniqid) - Adds an unique ID field.
 
 ## Fields (Carbon Fields < 2)
 
@@ -39,6 +41,7 @@
 ## Tools
 
 - [Fields Generator](https://wpcodewizard.com/) - Speed up the creation of definitions.
+- [Yeoman Field Generator](https://github.com/iamntz/yeoman-carbon-field-generator) - Quickly generates the structure needed to create a new field.
 
 ## Examples
 
@@ -48,7 +51,7 @@
 
 ## Contribute
 
-Contributions are welcome! Please, read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Please, read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ---
 
