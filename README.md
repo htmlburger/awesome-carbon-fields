@@ -30,6 +30,7 @@
 - [Chained Select](https://github.com/iamntz/carbon-chained-select) - Provides a way to chain multiple select. Also supports AJAX!
 - [Unique ID](https://github.com/iamntz/carbon-uniqid) - Adds an unique ID field.
 - [REST API Select](https://github.com/elvishp2006/carbon-field-rest-api-select) - Adds a select field that have their options filled by REST API endpoint.
+- [REST API Multi Select](https://github.com/iamntz/carbon-rest-multiselect) - Like the previous one, but with some enchacements: multi select, transformations on labels and more.
 
 ## Fields (Carbon Fields < 2)
 
