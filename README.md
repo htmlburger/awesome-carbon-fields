@@ -31,6 +31,7 @@
 - [Unique ID](https://github.com/iamntz/carbon-uniqid) - Adds an unique ID field.
 - [Unique ID](https://github.com/ynacorp/carbon-field-uniqid) (Supports Carbon Fields 3) - Adds an unique ID field.
 - [REST API Select](https://github.com/elvishp2006/carbon-field-rest-api-select) - Adds a select field that have their options filled by REST API endpoint.
+- [REST API Multi Select](https://github.com/iamntz/carbon-rest-multiselect) - Like the previous one, but with some enchacements: multi select, transformations on labels and more.
 
 ## Fields (Carbon Fields < 2)
 
