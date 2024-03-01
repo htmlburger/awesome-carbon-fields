@@ -31,6 +31,7 @@
 - [Unique ID](https://github.com/iamntz/carbon-uniqid) - Adds an unique ID field.
 - [Unique ID](https://github.com/ynacorp/carbon-field-uniqid) (Supports Carbon Fields 3) - Adds an unique ID field.
 - [REST API Select](https://github.com/elvishp2006/carbon-field-rest-api-select) - Adds a select field that have their options filled by REST API endpoint.
+- [Leaflet Map](https://github.com/MaxGruson/carbon-fields-leaflet-map) - Adds a [Leaflet](https://leafletjs.com/) map field as an alternative to the default Google Maps field.
 
 ## Fields (Carbon Fields < 2)
 
